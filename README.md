@@ -1,51 +1,129 @@
-# Documentação-SQL
-
+📘 Documentação Completa de SQL
 📌 Sobre o Projeto
 
-Depois de muitos meses de estudos intensivos, revisões e vídeo-aulas, concluí uma documentação completa sobre o universo SQL.
-O material reúne conceitos que vão do básico ao avançado, com exemplos práticos, comparações entre bancos, otimizações e explicações claras.
+Este repositório reúne minha documentação completa de estudos sobre SQL, construída após meses de prática, revisões, exercícios, testes reais em PostgreSQL/MySQL e vídeo-aulas.
+
+O objetivo é apresentar o SQL de forma clara, organizada e progressiva, começando pelos fundamentos e evoluindo até tópicos avançados, com exemplos reais e explicações objetivas.
 
 Toda a documentação foi construída com base em:
 
-📚 Documentações oficiais (PostgreSQL, MySQL, SQL ANSI)
+📚 Documentações oficiais (PostgreSQL, MySQL e SQL ANSI)
 
-🎓 Cursos e exercícios realizados
+🎓 Cursos e materiais complementares
 
-🧪 Testes reais executados no PostgreSQL e MySQL
+🧪 Testes práticos executados localmente
 
-📄 Conteúdo abordado
+✍️ Experiência própria ao longo da jornada de estudos
 
-O PDF cobre temas como:
+📄 Documento Principal
 
-Estrutura e classificação dos comandos SQL
+📘 Download da Documentação Completa (PDF)
+O arquivo contém todos os capítulos estruturados, imagens e exemplos.
 
-Criação e modelagem de tabelas
+👉 Basta abrir o PDF presente neste repositório.
 
-Chaves primárias, estrangeiras e relacionamentos
+🔍 Conteúdo Abordado
 
-Inserção, atualização, deleção e consultas avançadas
+A documentação cobre desde o básico até um nível avançado.
+Entre os tópicos presentes estão:
 
-JOINs (INNER, LEFT, RIGHT, FULL)
+📁 Estrutura da linguagem
 
-Subqueries
+DDL – Data Definition Language
 
-JSON, Arrays e Views
+DML – Data Manipulation Language
 
-Window Functions (ROW_NUMBER, RANK, DENSE_RANK…)
+DCL – Data Control Language
+
+TCL / Transações (BEGIN, COMMIT, ROLLBACK)
+
+🧱 Criação e Modelagem de Tabelas
+
+PRIMARY KEY, FOREIGN KEY
+
+UNIQUE, NOT NULL
+
+ON DELETE / ON UPDATE (CASCADE, RESTRICT, SET NULL etc.)
+
+📌 Manipulação de Dados
+
+INSERT, UPDATE, DELETE
+
+WHERE, LIKE, ORDER BY, LIMIT, OFFSET
+
+DISTINCT, BETWEEN, IN
+
+🔗 Relacionamentos e JOINs
+
+INNER JOIN
+
+LEFT JOIN
+
+RIGHT JOIN
+
+FULL JOIN
+
+Subqueries e consultas aninhadas
+
+📊 Funções e Tipos Avançados
+
+JSONB
+
+Arrays
+
+Funções de texto
+
+Funções numéricas
+
+Views e Materialized Views
+
+🧮 Window Functions
+
+ROW_NUMBER
+
+RANK / DENSE_RANK
+
+SUM OVER
+
+Particionamento e ordenação com OVER()
+
+⚡ Otimização e Performance
 
 Índices (B-Tree, Hash, GIN, GiST, BRIN)
 
-Scans (Seq Scan, Index Scan, Bitmap Scan…)
+Quando usar cada tipo
 
-EXPLAIN ANALYZE e análise de performance
+Full Table Scan vs Index Scan
 
-Normalização (1FN, 2FN, 3FN)
+Index Only Scan
 
-Procedures e Functions
+Bitmap Scan
 
-Testes práticos e otimizações
+EXPLAIN e EXPLAIN ANALYZE
 
+Interpretação do plano de execução
 
-🧑‍💻 Objetivo
+🔧 Procedimentos e Funções
 
-Registrar toda a jornada de aprendizado e servir como referência para quem deseja aprender SQL com clareza e prática.
+Functions em PostgreSQL (PL/pgSQL)
+
+Procedures em MySQL
+
+Exemplos reais, entradas e retornos
+
+📐 Normalização
+
+Dependências: total, parcial, transitiva
+
+1FN, 2FN, 3FN
+
+Exemplos corrigidos
+
+🎯 Objetivo
+
+Registrar e compartilhar todo meu processo de aprendizagem em SQL, construindo um material claro e direto que ajude outras pessoas a compreender e aplicar SQL de forma prática e consistente.
+
+🤝 Contribuição
+
+Sugestões, correções ou melhorias são bem-vindas!
+Sinta-se livre para abrir issues ou enviar pull requests.
