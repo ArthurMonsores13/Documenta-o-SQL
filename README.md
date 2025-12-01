@@ -1,4 +1,4 @@
-📘 Documentação Completa de SQL
+📘 Documentação Completa de SQL v1.0
 📌 Sobre o Projeto
 
 Este repositório reúne minha documentação completa de estudos sobre SQL, construída após meses de prática, revisões, exercícios, testes reais em PostgreSQL/MySQL e vídeo-aulas.
