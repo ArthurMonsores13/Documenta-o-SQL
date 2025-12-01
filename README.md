@@ -127,3 +127,8 @@ Registrar e compartilhar todo meu processo de aprendizagem em SQL, construindo u
 
 Sugestões, correções ou melhorias são bem-vindas!
 Sinta-se livre para abrir issues ou enviar pull requests.
+
+📬 Autor
+
+Arthur Monsores
+Estudante de Engenharia de Software e entusiasta de bancos de dados.
