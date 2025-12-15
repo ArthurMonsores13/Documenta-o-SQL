@@ -1,6 +1,12 @@
 📘 Documentação Completa de SQL v1.0
 📌 Sobre o Projeto
 
+## Overview (EN)
+
+This repository contains my personal SQL documentation, covering concepts from fundamentals to advanced topics.
+The full documentation is written in Brazilian Portuguese (PT-BR).
+
+---
 Este repositório reúne minha documentação completa de estudos sobre SQL, construída após meses de prática, revisões, exercícios, testes reais em PostgreSQL/MySQL e vídeo-aulas.
 
 O objetivo é apresentar o SQL de forma clara, organizada e progressiva, começando pelos fundamentos e evoluindo até tópicos avançados, com exemplos reais e explicações objetivas.
